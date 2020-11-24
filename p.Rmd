@@ -1,0 +1,43 @@
+---
+title: "Toma de decisiones inteligentes"
+author: "**CEDIA**"
+date: "Inicio: 30 de noviembre de 2020"
+output: ioslidies
+
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## **Contenido del curso**
+
+* Limpieza y arreglo de datos
+
+* Importación de datos - Nativos y otros
+
+* Procesamiento de datos
+
+* Integración de R (gráficos) en Power BI
+
+* Analytics en Power BI para la toma de decisiones
+
+* Reproducibilidad de informes
+
+* Proyecto final con tus datos
+
+
+## Ejemplos
+
+* Estadísticas Ser Bachiller. [clic aquí](https://app.powerbi.com/view?r=eyJrIjoiZjEyZWI2ZGYtZGY2OS00MDNiLTg0ZjktNDI2MDhkNjA3MGI4IiwidCI6IjJmYzgyYWFkLWYyMjUtNDM0OS04YjliLTg0MTZhNGFmNGQ3ZiJ9&pageName=ReportSectionb0e738ded202809858d3)
+
+* Votaciones Asamblea Nacional. [clic aquí](https://app.powerbi.com/view?r=eyJrIjoiMGQ2MzgyYmUtZWMyNS00YWM2LTk1NzAtZjg1Y2RhN2JjYWU0IiwidCI6IjJmYzgyYWFkLWYyMjUtNDM0OS04YjliLTg0MTZhNGFmNGQ3ZiJ9)
+
+* Vías cerradas o parcialmente cerradas. [clic aquí](https://rpubs.com/darwinpadilla84/estadovial2611190542)
+
+
+Consideración: Todos los tableros son ejemplos didácticos y referenciales, se recomienda no utilizarlos como **fuente oficial** bajo ninguna circunstancia.
+
+## Te esperamos:
+[Inscripciones aquí.](https://secure.event2s.com/public/event.jsf?iddistribucion=1100&sellerid=8926&init=true&type=P&service=evento&lng=es)
